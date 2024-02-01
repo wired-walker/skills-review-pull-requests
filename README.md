@@ -18,6 +18,7 @@ _Collaborate and work together on GitHub._
   Start this step by acknowledging the previous step.
   Define terms and link to docs.github.com.
 -->
+Test
 
 ## Step 6: Merge your pull request
 
